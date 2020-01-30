@@ -1,0 +1,55 @@
+*/* { outline: 1px dotted red; }*/
+body{
+    background-color:rgb(28, 51, 93);
+}
+
+div{
+    border-radius: 20px;
+}
+
+a{
+    color: rgb(89, 211, 229);
+}
+h1,h2,h3,h4,h5,p,li{
+    color: rgb(194, 214, 236)
+}
+
+#home{
+    margin-left: 22px;
+    margin-bottom: -10px;
+}
+
+.roja{
+    color: white;
+    background-color:rgb(207, 47, 54);
+    width: auto;
+    height: 70px;
+    padding-left: 20px;
+    padding-top: 1px;
+    margin-bottom: 30px;
+}
+
+
+.menu{
+    background-color: rgb(42, 125, 140);
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+}
+.contenido{
+    padding: 10px;
+    background-color: rgb(14, 23, 34);
+    margin-left: 9px;
+    width: 1050px;
+    height: 500px;
+    vertical-align: top;
+    display: inline-block;
+}
+.pie{
+    background-color: rgb(93, 101, 115);
+    width: auto;
+    height: 40px;
+    padding: 10px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
